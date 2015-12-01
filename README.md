@@ -10,6 +10,8 @@ to call many local functions.
 **Requires [particle-CLI](https://github.com/spark/particle-cli) to be
 installed locally**
 
+Things
+
 ```C++
 particle call :DeviceID command {args}
 ```
