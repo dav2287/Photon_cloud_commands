@@ -7,6 +7,7 @@ to call many local functions.
 
 ### Use with particle-CLI:
 
+**Requires [particle-CLI](https://github.com/spark/particle-cli)**
 
 ```C++
 particle call :DeviceID command {args}

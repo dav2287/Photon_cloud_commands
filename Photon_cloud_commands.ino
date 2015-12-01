@@ -1,7 +1,7 @@
 /*
  This can be used to send commands to the Particle Photon using the particle-CLI
 
- particle call 0123456789ABCDEFGHI command {args}
+ particle call :DeviceID command {args}
     where {args} is dependent on 'command'
 
 
