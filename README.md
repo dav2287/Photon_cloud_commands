@@ -7,8 +7,8 @@ to call many local functions.
 
 ### Use with particle-CLI:
 
-**Requires [particle-CLI](https://github.com/spark/particle-cli) to be
-installed locally**
+_**Requires [particle-CLI](https://github.com/spark/particle-cli) to be
+installed locally**_
 
 Things
 
